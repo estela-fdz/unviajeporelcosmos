@@ -1,0 +1,463 @@
+# Translation of Plugins - Preloader Plus &#8211; WordPress Loading Screen Plugin - Stable (latest release) in Spanish (Spain)
+# This file is distributed under the same license as the Plugins - Preloader Plus &#8211; WordPress Loading Screen Plugin - Stable (latest release) package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2020-12-07 08:46:49+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: GlotPress/3.0.0-alpha.2\n"
+"Language: es\n"
+"Project-Id-Version: Plugins - Preloader Plus &#8211; WordPress Loading Screen Plugin - Stable (latest release)\n"
+
+#: inc/customizer.php:142
+msgid "Show the preloader only on first visit"
+msgstr "Mostrar el precargador solo en la primera visita"
+
+#: inc/preloader-plus.php:404
+msgid "%1$s %2$s YES, YOU DESERVE IT %3$s %4$s REMIND ME LATER %3$s %5$s I ALREADY DID  %3$s %6$s"
+msgstr "%1$s %2$s SÍ, TE LO MERECES %3$s %4$s RECUÉRDAMELO MÁS TARDE %3$s %5$s YA LO HE HECHO %3$s %6$s"
+
+#: inc/preloader-plus.php:403
+msgid "%1$s Hey, I noticed you are using my plugin %2$s that%3$ss awesome! Could you please do me a BIG favor and give it a 5-star rating on WordPress? Just to help us spread the word and boost our motivation. %4$s - %5$ sMassimo Sanfelice %6$s %7$s"
+msgstr "%1$s Oye, he visto que estás usando mi plugin %2$s, ¡eso es fantástico! ¿Podrías hacerme un GRAN favor y darle una valoración de 5 estrellas en WordPress? Solo para ayudarnos a hacer correr la voz y aumentar nuestra motivación. %4$s - %5$s Massimo Sanfelice %6$s %7$s"
+
+#: preloader-plus-pro/inc/customizer.php:348
+msgid "Set a value for animate the dimension of the content. Use a value below 1 (e.g.: 0.5) to scale it up, or a value above 1 (e.g.: 1.5) to scale it down. "
+msgstr "Establece un valor para animar la dimensión del contenido. Usa un valor por debajo de 1 (por ejemplo: 0,5) para aumentarlo, o un valor por encima de 1 (por ejemplo: 1,5) para reducirlo. "
+
+#: preloader-plus-pro/inc/customizer.php:332
+msgid "Set the distance that the content will cover to the direction that you have choosen in Direction. You can use pixel or percentage."
+msgstr "Establece la distancia que cubrirá el contenido en la dirección que hayas elegido en «Dirección». Puedes usar píxeles o porcentajes."
+
+#: preloader-plus-pro/inc/customizer.php:309
+msgid "Choose the direction of the content when it appears."
+msgstr "Elige la dirección del contenido cuando aparezca."
+
+#: preloader-plus-pro/inc/customizer.php:293
+msgid "Preloader Plus animates the #content selector inside the page. Here you can choose a different selector to animate. Use a valid css selector (e.g.: #content, .sidebar, img, etc.)."
+msgstr "Preloader Plus anima el selector #content dentro de la página. Aquí puedes elegir un selector diferente para animar. Usa un selector CSS válido (por ejemplo: #content, .sidebar, img, etc.)."
+
+#: preloader-plus-pro/inc/customizer.php:292
+msgid "Selector"
+msgstr "Selector"
+
+#: preloader-plus-pro/inc/customizer.php:277
+msgid "Enable content animation"
+msgstr "Activar la animación del contenido"
+
+#: preloader-plus-pro/inc/customizer.php:260
+msgid "CONTENT ANIMATIONS"
+msgstr "ANIMACIONES DEL CONTENIDO"
+
+#: preloader-plus-pro/inc/customizer.php:229
+msgid "Set a value for animate the dimension of the preloader. Use a value below 1 (e.g.: 0.5) to scale it down, or a value above 1 (e.g.: 1.5) to scale it up."
+msgstr "Establece un valor para animar la dimensión del precargador. Utiliza un valor por debajo de 1 (por ejemplo: 0,5) para reducirla, o un valor por encima de 1 (por ejemplo: 1,5) para aumentarla."
+
+#: preloader-plus-pro/inc/customizer.php:228
+#: preloader-plus-pro/inc/customizer.php:347
+msgid "Scale"
+msgstr "Escala"
+
+#: preloader-plus-pro/inc/customizer.php:213
+msgid "Set the distance that the preloader will cover to the direction that you have choosen in Direction. You can use pixel or percentage."
+msgstr "Establece la distancia que el precargador cubrirá en la dirección que hayas elegido en «Dirección». Puedes usar píxeles o porcentajes."
+
+#: preloader-plus-pro/inc/customizer.php:212
+#: preloader-plus-pro/inc/customizer.php:331
+msgid "Distance"
+msgstr "Distancia"
+
+#: preloader-plus-pro/inc/customizer.php:197
+#: preloader-plus-pro/inc/customizer.php:316
+msgid "Left"
+msgstr "Izquierda"
+
+#: preloader-plus-pro/inc/customizer.php:195
+#: preloader-plus-pro/inc/customizer.php:314
+msgid "Right"
+msgstr "Derecha"
+
+#: preloader-plus-pro/inc/customizer.php:190
+msgid "Choose the direction of the preloader on closing."
+msgstr "Elige la dirección del precargador al cerrarse."
+
+#: preloader-plus-pro/inc/customizer.php:189
+#: preloader-plus-pro/inc/customizer.php:308
+msgid "Direction"
+msgstr "Dirección"
+
+#: preloader-plus-pro/inc/customizer.php:174
+msgid "Set a value for animate the preloader opacity. You can use a value between 0 (transparent) and 1 (full opacity). E.g.:0.1; 0.2 etc."
+msgstr "Establece un valor para animar la opacidad del precargador. Puedes usar un valor entre 0 (transparente) y 1 (opacidad total). Por ejemplo: 0.1, 0.2, etc."
+
+#: preloader-plus-pro/inc/customizer.php:173
+msgid "Opacity"
+msgstr "Opacidad"
+
+#: preloader-plus-pro/inc/customizer.php:156
+msgid "PRELOADER ANIMATIONS"
+msgstr "ANIMACIONES DEL PRECARGADOR"
+
+#: preloader-plus-pro/inc/customizer.php:125
+msgid "Set the animation duration (in milliseconds)."
+msgstr "Establece la duración de la animación (en milisegundos)."
+
+#: preloader-plus-pro/inc/customizer.php:124
+msgid "Animation duration"
+msgstr "Duración de la animación"
+
+#: preloader-plus-pro/inc/customizer.php:109
+msgid "Set the time (in milliseconds) after which the animation start after the end of page loading"
+msgstr "Establecer el tiempo (en milisegundos) después del que la animación comienza al final de la carga de la página"
+
+#: preloader-plus-pro/inc/customizer.php:108
+msgid "Animation delay"
+msgstr "Retardo de la animación"
+
+#: preloader-plus-pro/inc/customizer.php:29
+msgid "Insert your content here, html and shortcodes are allowed."
+msgstr "Inserta tu contenido aquí, se permite HTML y shortcodes."
+
+#: views/plugin-page.php:21
+msgid "This short videos show you single elements and features of Preloader Plus ."
+msgstr "Estos vídeos cortos te muestran los elementos individuales y las características de Preloader Plus."
+
+#: views/plugin-page.php:14
+msgid "This is a complete video that show you all what you can do with Preloader Plus."
+msgstr "Este es un vídeo completo que muestra todo lo que puedes hacer con Preloader Plus."
+
+#: preloader-plus-pro/inc/customizer.php:28 inc/preloader-plus.php:213
+msgid "Custom content"
+msgstr "Contenido personalizado"
+
+#: inc/customizer.php:807
+msgid "Add preloader and content animations: choose opacity, direction, distance and scaling. Set the duration of the animation and an animation delay."
+msgstr "Añade animaciones de precarga y contenido: elige la opacidad, la dirección, la distancia y la escala. Establece la duración y un retraso de la animación."
+
+#: inc/customizer.php:686
+msgid "Middle"
+msgstr "Centrado"
+
+#: inc/customizer.php:479
+msgid "Set the size, the weight and the transformation (capitalize, uppercase, lowercase) of the text of your custom content."
+msgstr "Establece el tamaño, el peso y la transformación (iniciales en mayúscula, mayúsculas, minúsculas) del texto de tu contenido personalizado."
+
+#: inc/customizer.php:287
+msgid "BLOG NAME"
+msgstr "NOMBRE DEL BLOG"
+
+#: inc/customizer.php:260 inc/customizer.php:481 inc/customizer.php:809
+msgid "SHOW ME PRO FEATURES"
+msgstr "MUÉSTRAME LAS CARACTERÍSTICAS PRO"
+
+#: inc/customizer.php:258
+msgid "Add custom content: plain text, html or even shortcodes."
+msgstr "Añade contenido personalizado: texto sin formato, HTML o, incluso, shortcodes."
+
+#: inc/customizer.php:161 inc/preloader-plus.php:214
+msgid "Percentage counter"
+msgstr "Contador de porcentaje"
+
+#: inc/customizer.php:160 inc/preloader-plus.php:212
+msgid "Blog name"
+msgstr "Nombre del blog"
+
+#: inc/customizer.php:159 inc/preloader-plus.php:211
+msgid "Built-in icon"
+msgstr "Icono incorporado"
+
+#: inc/customizer.php:158 inc/preloader-plus.php:210
+msgid "Custom image"
+msgstr "Imagen personalizada"
+
+#: inc/customizer.php:153
+msgid "Elements positioning and visibility"
+msgstr "Posicionamiento y visibilidad de los elementos"
+
+#: inc/customizer.php:777
+msgid "Background color"
+msgstr "Color del fondo"
+
+#: inc/customizer.php:754
+msgid "Color"
+msgstr "Color"
+
+#: inc/customizer.php:735
+msgid "Set the distance from the top or the bottom, depends on the value choosen in position option. Use pixels or percentage (e.g.: 20px, 10%)"
+msgstr "Establece la distancia desde la parte superior o inferior, depende del valor elegido en la opción de «Posición». Utiliza píxeles o porcentaje (por ejemplo: 20px, 10%)"
+
+#: inc/customizer.php:734
+msgid "Distance from top / bottom"
+msgstr "Distancia desde la parte superior o inferior"
+
+#: inc/customizer.php:719
+msgid "Set the width of the progress bar. Use pixels or percentage (e.g.: 300px, 60%)"
+msgstr "Establece el ancho de la barra de progreso. Utiliza píxeles o porcentaje (por ejemplo: 300px, 60%)"
+
+#: inc/customizer.php:718
+msgid "Width"
+msgstr "Anchura"
+
+#: inc/customizer.php:703
+msgid "Set the height of the progress bar."
+msgstr "Establece la altura de la barra de progreso."
+
+#: inc/customizer.php:702
+msgid "Height"
+msgstr "Altura"
+
+#: preloader-plus-pro/inc/customizer.php:196
+#: preloader-plus-pro/inc/customizer.php:315 inc/customizer.php:687
+msgid "Bottom"
+msgstr "Inferior"
+
+#: preloader-plus-pro/inc/customizer.php:194
+#: preloader-plus-pro/inc/customizer.php:313 inc/customizer.php:685
+msgid "Top"
+msgstr "Superior"
+
+#: inc/customizer.php:682
+msgid "Choose the position of the progress bar. You can display it at the top or at the bottom of the page."
+msgstr "Elige la posición de la barra de progreso. Puedes mostrarla en la parte superior o inferior de la página."
+
+#: inc/customizer.php:681
+msgid "Position"
+msgstr "Posición"
+
+#: inc/customizer.php:657
+msgid "Choose a value in milliseconds to set the animation speed of the custom image."
+msgstr "Elige un valor en milisegundos para establecer la velocidad de la animación de la imagen personalizada."
+
+#: inc/customizer.php:656
+msgid "Animation speed"
+msgstr "Velocidad de la animación"
+
+#: inc/customizer.php:641
+msgid "Fade"
+msgstr "Desvanecer"
+
+#: inc/customizer.php:640
+msgid "Rotation"
+msgstr "Rotación"
+
+#: inc/customizer.php:639
+msgid "No animation"
+msgstr "Sin animación"
+
+#: inc/customizer.php:636
+msgid "Choose how to animate the custom icon / image.."
+msgstr "Elige cómo animar el icono o la imagen personalizada..."
+
+#: inc/customizer.php:635
+msgid "Animation"
+msgstr "Animación"
+
+#: inc/customizer.php:620
+msgid "Set the dimension of the custom image."
+msgstr "Establece la dimensión de la imagen personalizada."
+
+#: inc/customizer.php:619
+msgid "Dimension"
+msgstr "Dimensión"
+
+#: inc/customizer.php:601
+msgid "Choose a custom icon or image. Also svg images are allowed"
+msgstr "Elige un icono o una imagen personalizada. También se permiten imágenes SVG"
+
+#: inc/customizer.php:600
+msgid "Custom icon / image"
+msgstr "Icono o imagen personalizada"
+
+#: inc/customizer.php:127
+msgid "Show the preloader only on the front page"
+msgstr "Mostrar el precargador solo en la página de inicio"
+
+#. Author URI of the plugin
+msgid "https://wp-brandtheme.com"
+msgstr "https://wp-brandtheme.com"
+
+#. Author of the plugin
+msgid "Massimo Sanfelice | Maxsdesign"
+msgstr "Massimo Sanfelice | Maxsdesign"
+
+#. Description of the plugin
+msgid "Add a page loading screen to your website with style and animations, easy to customize, works on all major browsers and with any theme, any device."
+msgstr "Añade una pantalla de carga de página a tu web con estilos y animaciones, fácil de personalizar, funciona en todos los navegadores principales y con cualquier tema y dispositivo."
+
+#. Plugin URI of the plugin
+msgid "https://wordpress.org/plugins/preloader-plus/"
+msgstr "https://es.wordpress.org/plugins/preloader-plus/"
+
+#: views/plugin-page.php:38
+msgid "We offer free, full support for Preloader Plus. We will answer you as soon as possible."
+msgstr "Ofrecemos soporte completo y gratuito para Preloader Plus. Te responderemos lo antes posible."
+
+#: preloader-plus.php:57
+msgid "The %2$sPreloader Plus%3$s plugin requires %2$sPHP 5.4+%3$s to run properly. Please contact your hosting company and ask them to update the PHP version of your site to at least PHP 5.4%4$s Your current version of PHP: %2$s%1$s%3$s"
+msgstr "El plugin %2$sPreloader Plus%3$s necesita %2$sPHP 5.4 o superior%3$s para funcionar correctamente. Por favor, contacta a tu empresa de alojamiento y pídeles que actualicen la versión PHP de tu sitio, al menos, a PHP 5.4%4$s Tu versión actual de PHP es: %2$s%1$s%3$s"
+
+#: inc/customizer.php:787
+msgid "Animations"
+msgstr "Animaciones"
+
+#: inc/customizer.php:162 inc/customizer.php:663 inc/preloader-plus.php:215
+msgid "Progress bar"
+msgstr "Barra de progreso"
+
+#: inc/customizer.php:585
+msgid "CUSTOM IMAGE"
+msgstr "IMAGEN PERSONALIZADA"
+
+#: inc/customizer.php:554
+msgid "Set the dimension of the icon in pixels."
+msgstr "Establece la dimensión del icono en píxeles."
+
+#: inc/customizer.php:553
+msgid "Icon dimension"
+msgstr "Dimensión del icono"
+
+#: inc/customizer.php:529
+msgid "Choose an icon."
+msgstr "Elige un icono."
+
+#: inc/customizer.php:528
+msgid "Icons"
+msgstr "Iconos"
+
+#: inc/customizer.php:508
+msgid "BUILT-IN ICONS"
+msgstr "ICONOS INCORPORADOS"
+
+#: inc/customizer.php:490
+msgid "Icon / Image"
+msgstr "Icono / Imagen"
+
+#: inc/customizer.php:384
+msgid "PERCENTAGE COUNTER"
+msgstr "CONTADOR DE PORCENTAJE"
+
+#: preloader-plus-pro/inc/customizer.php:93 inc/customizer.php:353
+#: inc/customizer.php:429
+msgid "Font size in pixel"
+msgstr "Tamaño de la fuente en píxeles"
+
+#: preloader-plus-pro/inc/customizer.php:78 inc/customizer.php:338
+msgid "Lowercase"
+msgstr "Minúsculas"
+
+#: preloader-plus-pro/inc/customizer.php:77 inc/customizer.php:337
+msgid "Uppercase"
+msgstr "Mayúsculas"
+
+#: preloader-plus-pro/inc/customizer.php:76 inc/customizer.php:336
+msgid "Capitalize"
+msgstr "Iniciales en mayúscula"
+
+#: preloader-plus-pro/inc/customizer.php:75
+#: preloader-plus-pro/inc/customizer.php:193
+#: preloader-plus-pro/inc/customizer.php:312 inc/customizer.php:335
+msgid "None"
+msgstr "Nada"
+
+#: preloader-plus-pro/inc/customizer.php:72 inc/customizer.php:332
+msgid "Text transform"
+msgstr "Transformación de texto"
+
+#: preloader-plus-pro/inc/customizer.php:57 inc/customizer.php:317
+#: inc/customizer.php:414
+msgid "900"
+msgstr "900"
+
+#: preloader-plus-pro/inc/customizer.php:56 inc/customizer.php:316
+#: inc/customizer.php:413
+msgid "800"
+msgstr "800"
+
+#: preloader-plus-pro/inc/customizer.php:55 inc/customizer.php:315
+#: inc/customizer.php:412
+msgid "700"
+msgstr "700"
+
+#: preloader-plus-pro/inc/customizer.php:54 inc/customizer.php:314
+#: inc/customizer.php:411
+msgid "600"
+msgstr "600"
+
+#: preloader-plus-pro/inc/customizer.php:53 inc/customizer.php:313
+#: inc/customizer.php:410
+msgid "500"
+msgstr "500"
+
+#: preloader-plus-pro/inc/customizer.php:52 inc/customizer.php:312
+#: inc/customizer.php:409
+msgid "400"
+msgstr "400"
+
+#: preloader-plus-pro/inc/customizer.php:51 inc/customizer.php:311
+#: inc/customizer.php:408
+msgid "300"
+msgstr "300"
+
+#: preloader-plus-pro/inc/customizer.php:50 inc/customizer.php:310
+#: inc/customizer.php:407
+msgid "200"
+msgstr "200"
+
+#: preloader-plus-pro/inc/customizer.php:49 inc/customizer.php:309
+#: inc/customizer.php:406
+msgid "100"
+msgstr "100"
+
+#: preloader-plus-pro/inc/customizer.php:48 inc/customizer.php:308
+#: inc/customizer.php:405
+msgid "Bold"
+msgstr "Negrita"
+
+#: preloader-plus-pro/inc/customizer.php:47 inc/customizer.php:307
+#: inc/customizer.php:404
+msgid "Normal"
+msgstr "Normal"
+
+#: preloader-plus-pro/inc/customizer.php:44 inc/customizer.php:304
+#: inc/customizer.php:401
+msgid "Font weight"
+msgstr "Peso de la fuente"
+
+#: inc/customizer.php:269
+msgid "Typography"
+msgstr "Tipografía"
+
+#: inc/customizer.php:257 inc/customizer.php:478 inc/customizer.php:806
+msgid "Premium Features"
+msgstr "Características premium"
+
+#: inc/customizer.php:239 inc/customizer.php:460
+msgid "CUSTOM CONTENT"
+msgstr "CONTENIDO PERSONALIZADO"
+
+#: inc/customizer.php:204
+msgid "Preloader text color"
+msgstr "Color del texto del precargador"
+
+#: inc/customizer.php:181
+msgid "Preloader background color"
+msgstr "Color del fondo del precargador"
+
+#: inc/customizer.php:112
+msgid "Enable preloader"
+msgstr "Activar el precargador"
+
+#: inc/customizer.php:95
+msgid "GENERAL"
+msgstr "GENERAL"
+
+#: inc/customizer.php:77
+msgid "Settings"
+msgstr "Ajustes"
+
+#. Plugin Name of the plugin
+#: inc/customizer.php:71 inc/preloader-plus.php:118 inc/preloader-plus.php:119
+msgid "Preloader Plus"
+msgstr "Preloader Plus"

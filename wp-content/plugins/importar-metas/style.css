@@ -1,0 +1,108 @@
+.container {
+    display: block;
+    position: relative;
+    text-align: center;
+    margin: 0 auto;
+    box-shadow: 2px 2px 19px -5px rgba(182,206,224,1);
+    width: 800px;
+    padding: 50px 50px;
+}
+
+div.cabecera-formulario h1 {
+    color: #fff;
+    font-family: 'Montserrat';
+    font-weight: 600
+;
+}
+
+div.cabecera-formulario p {
+    font-size: 16px;
+    font-family: 'Montserrat';
+    font-weight: 500;
+    margin-bottom: 40px;
+    color: #d1d1d1;
+}
+
+div.container {
+    width: 600px;
+    background: #0b144d;
+}
+
+input[name="enviar"] {
+    background: #00add4;
+    color: #fff;
+    border: 0 solid;
+    padding: 10px;
+    border-radius: 3px;
+    font-size: 13px;
+    text-transform: uppercase;
+    display:block;
+    margin: 0 auto;
+    margin-top: 40px;
+    font-family: 'Montserrat';
+    padding: 15px 20px;
+    font-weight: 500;
+}
+
+div.container {
+    background-color: #0b144d;
+    padding-top: 10px;
+    margin-top: 50px;
+    border-radius: 10px
+}
+
+div.cabecera-formulario h1 {
+    color: #fff;
+}
+
+input.form-control {
+    color: #fff;
+    height: 66px;
+}
+
+div.container {
+    background-color: #0b144d;
+    padding-top: 10px;
+    margin-top: 50px;
+    border-radius: 10px
+;
+}
+
+input.form-control {
+    color: #fff;
+    margin-top: 1px;
+    visibility: hidden;
+    position: relative;
+    padding: 30px;
+    width: 100%;
+}
+
+input.form-control:after {
+    content: attr(data-value);
+    visibility: visible;
+    display: block;
+    background-color: transparent;
+    border: 1px dashed #fff;
+    padding: 20px 65px;
+    margin: 0 auto;
+    top: 2px;
+    font-size: 15px;
+    position: inherit;
+    text-align: center;
+    width: 40%;
+;
+}
+
+div.cabecera-formulario p {
+    color: #d1d1d1;
+}
+
+div.cabecera-formulario img {
+    height: 300px;
+}
+
+.wp-admin input[type=file] {
+    margin-top: -30px;
+    height: 88px;
+    margin-bottom: 20px;
+}
