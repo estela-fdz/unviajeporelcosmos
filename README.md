@@ -21,4 +21,4 @@ Unviajeporelcosmos.es es un sitio web atípico que realiza un apasionante recorr
 
 Tus aportaciones son de gran ayuda para el proyecto. Para colaborar en la mejora de Un Viaje por el Cosmos, por favor, rellena la siguiente encuesta:
 
-[¡Ir a la encuesta!](https://www.survio.com/survey/d/K2Y8V7G1K9C8M5X2Y)
+📄 --> [¡Ir a la encuesta!](https://www.survio.com/survey/d/K2Y8V7G1K9C8M5X2Y)
